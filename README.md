@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project demonstrates the design and implementation of a home lab SIEM (Security Information and Event Management) using **Microsoft Sentinel** on Azure.
+This project demonstrates the design of a home lab SIEM (Security Information and Event Management) using **Microsoft Sentinel** on Azure.
 
 A vulnerable environment was created by deploying a Windows Virtual Machine exposed to the internet, acting as a honeypot to attract real-world attack attempts.
 
