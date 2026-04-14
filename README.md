@@ -147,4 +147,4 @@ This structured approach reflects a typical analyst workflow in a Security Opera
 
 ## Video
 
-👉 [Link to the YouTube video](https://www.youtube.com/...)
+👉 [Link to the YouTube video](https://www.youtube.com/watch?v=pAeM8ad_w7E&t=18s)
